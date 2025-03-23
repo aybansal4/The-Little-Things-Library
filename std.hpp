@@ -1,4 +1,4 @@
-#ifndef STD_HPP
+#ifndef STD_HPP // std.hpp, you can remove headers in your copy if you need to
 #define STD_HPP
 #include <algorithm>
 #include <bitset>
